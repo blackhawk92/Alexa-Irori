@@ -1,3 +1,8 @@
+
+#This is a WIP
+#The aim of this fork is to create a german DB for Irori
+
+
 # ![Irori](https://github.com/MindsoupLabs/Alexa-Irori/raw/master/src/main/resources/alexa/logo/logo-small.png) Irori For Pathfinder
 The alexa skill Irori For Pathfinder. If you need to know the stat of a monster, item or spell, just ask Irori!
 
